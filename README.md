@@ -67,4 +67,4 @@ To use as a PWA:
 3.  Launch from the home screen for a full-screen experience.
 
 ---
-*Created by [Twoje Imię/Nick].*
+*Created by [chomiczo].*
