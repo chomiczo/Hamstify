@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+yt-dlp
+ytmusicapi
+passlib[bcrypt]
+python-multipart
+python-jose
